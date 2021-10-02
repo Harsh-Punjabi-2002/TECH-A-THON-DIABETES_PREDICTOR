@@ -41,7 +41,7 @@ Our project can predict whether a person could be diagnosed with diabetes or not
 
 <img src="images/1.jpg">
 
-<img src="url/images\2.png">
+<img src="images/2.png">
 
 # FEATURES OF PROJECT:
 
@@ -58,7 +58,7 @@ Our project can predict whether a person could be diagnosed with diabetes or not
 
 **Here is the screen shot of all the libraries used in making the model from Jupyter file.:**
 
-<img src="url/images\3.png">
+<img src="images/3.png">
 
 **Tech Stack**
 •	IDE: Jupyter notebook
@@ -69,21 +69,21 @@ Our project can predict whether a person could be diagnosed with diabetes or not
 
 1.	Datasets consist of the all the data like the number of pregnancies the patient has had, their BMI, insulin level, age and so on, which is used while running the project. The data set is stored in CSV file.
 2.	The dataset was taken from the site : 
-kaggle.com/uciml/pima-indians-diabetes-database
+[link](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
-<img src="url/images\4.png">
+<img src="images/4.png">
 
 # Model Creation:
 
 1.	Different types of models were tried like random forest, logistic regression, support vector machines, knn.
 
-<img src="url/images\5.png">
-<img src="url/images\6.png">
+<img src="images/5.png">
+<img src="images/6.png">
 
 2.	Out of all these logistic regression gave accuracy of 83%
 
    Here is glimpse of it:
-<img src="url/images\7.png">
+<img src="images/7.png">
 
 # RUNNING THE MODEL:
 
@@ -91,7 +91,7 @@ After completion of the model and doing some changes we ,finally ran the model. 
 
 Here is a glimpse of our output:
 
-<img src="url/images\8.png">
+<img src="images/8.png">
 
 # Improvements for better implementation:
 
@@ -99,9 +99,9 @@ After making the model we decided to **make a website** out of it that will **in
 
 Here is the glimpse from it : 
 
-<img src="url/images\9.png">
+<img src="images/9.png">
 
-<img src="url/images\10.png">
+<img src="images/10.png">
 
 
 
