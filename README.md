@@ -39,7 +39,7 @@ Our project can predict whether a person could be diagnosed with diabetes or not
 
 # Here is glimpse of some libraries:
 
-<img src="url/images\1.jpg">
+<img src="images/1.jpg">
 
 <img src="url/images\2.png">
 
