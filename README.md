@@ -30,7 +30,7 @@ We chose Machine Learning /AI for our project
 
 Our Project aims at building a machine learning model to accurately predict weather the patients in the dataset have diabetes or not.
 
-**HOW IS THE PURPOSE ACHIEVED?**
+# HOW IS THE PURPOSE ACHIEVED?
 
 The datasets consist of several medical predictor (independent) variables and one target (dependent) variable. Hence using all the data, libraries and testing all the permutation and combinations our predictor will give the accurate prediction whether a person have possibility of diabetes and with what percentage.
 
