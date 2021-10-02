@@ -13,8 +13,9 @@ We chose Machine Learning /AI for our project
 
 # Contributors:
 
-  Harsh Punjabi: Jupyter file
-  Khushi Jain: Readme file
+
+1.	Harsh Punjabi: Jupyter file
+2.	Khushi Jain: Readme file
 
 # Project Name: DIABETES_PREDICTOR
 
