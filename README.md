@@ -13,9 +13,8 @@ We chose Machine Learning /AI for our project
 
 # Contributors:
 
-
-1.	Harsh Punjabi: Jupyter file
-2.	Khushi Jain: Readme file
+1.	**Harsh Punjabi**: Jupyter file
+2.	**Khushi Jain**: Readme file
 
 # Project Name: DIABETES_PREDICTOR
 
@@ -23,12 +22,12 @@ We chose Machine Learning /AI for our project
 
 # Why we chose this project?
 
-1.  Today there is hardly any household where one or more people are not suffering from diabetes. It has become a common disease of every household.
-2.  So we wanted to make a project that could aware people in the early stages or in the beginning so that they could take all precautions to control diabetes. It would make them health conscious.
+1.  Today there is hardly any household where one or more people are not suffering from diabetes. **It has become a common disease of every household.**
+2.  So we **wanted to make a project that could aware people in the early stages** or in the beginning so that they could take all precautions to control diabetes. It would make them health conscious.
 
 # Project Purpose:
 
-Our Project aims at building a machine learning model to accurately predict weather the patients in the dataset have diabetes or not.
+**Our Project aims at building a machine learning model to accurately predict weather the patients in the dataset have diabetes or not.**
 
 # HOW IS THE PURPOSE ACHIEVED?
 
@@ -36,7 +35,7 @@ The datasets consist of several medical predictor (independent) variables and on
 
 # About The Project:
 
-Our project can predict whether a person could be diagnosed with diabetes or not and how much percentage are the chances of having diabetes. The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age and so on. After using logistic regression, random forest classifier, KNN and support vector machine, the **logistic regression gave the accuracy of 83%**, Hyperparameter tuning **randomized Search CV**, Libraries used in our project are **NumPy, SciPy, Scikit-Learn, Pandas, Matplotlib, pickle, seaborn**.
+Our project **can predict whether a person could be diagnosed with diabetes or not** and how much percentage are the chances of having diabetes. The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age and so on. After using logistic regression, random forest classifier, KNN and support vector machine, the **logistic regression gave the accuracy of 83%**, Hyperparameter tuning **randomized Search CV**, Libraries used in our project are **NumPy, SciPy, Scikit-Learn, Pandas, Matplotlib, pickle, seaborn**.
 
 # Here is glimpse of some libraries:
 
@@ -54,8 +53,8 @@ Our project can predict whether a person could be diagnosed with diabetes or not
            
 1.	It detects whether a person is at risk of getting diabetes or not.
 2.	Helps in knowing about the disease at early stages
-3.	Quick treatment could initialize.
-4.	Free and easily available to large number of people.
+3.	**Quick treatment could initialize.**
+4.	**Free** and easily available to large number of people.
 
 **Here is the screen shot of all the libraries used in making the model from Jupyter file.:**
 
@@ -68,7 +67,7 @@ Our project can predict whether a person could be diagnosed with diabetes or not
 
 # Data Set:
 
-1.	Datasets consist of the all the data like the number of pregnancies the patient has had, their BMI, insulin level, age and so on, which is used while running the project. The data set is stored in CSV file.
+1.	Datasets consist of the all the data like the number of pregnancies the patient has had, their BMI, insulin level, age and so on, which is used while running the project. **The data set is stored in CSV file.**
 2.	The dataset was taken from the site : 
 [link](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
@@ -81,14 +80,14 @@ Our project can predict whether a person could be diagnosed with diabetes or not
 <img src="images/5.png">
 <img src="images/6.png">
 
-2.	Out of all these logistic regression gave accuracy of 83%
+2.	Out of all these **logistic regression gave accuracy of 83%**
 
    Here is glimpse of it:
 <img src="images/7.png">
 
 # RUNNING THE MODEL:
 
-After completion of the model and doing some changes we ,finally ran the model. The output would basically tell the probability by which the person is diabetic.
+After completion of the model and doing some changes **we ,finally ran the model.** The output would basically tell the probability by which the person is diabetic.
 
 Here is a glimpse of our output:
 
@@ -103,18 +102,3 @@ Here is the glimpse from it :
 <img src="images/9.png">
 
 <img src="images/10.png">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
